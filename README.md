@@ -1,1 +1,2 @@
-# Gravity BOX in JS
+# Gravity Ball
+### A simple gravity engine in JS
