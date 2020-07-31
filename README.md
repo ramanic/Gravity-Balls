@@ -1,1 +1,1 @@
-# A simple gravity engine demonstration in JS
+# Gravity BOX in JS
